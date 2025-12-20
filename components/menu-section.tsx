@@ -78,7 +78,7 @@ export function MenuSection() {
     try {
       const response = await fetch("https://api.olaclick.app/ms-products/public/companies/7bae7c21-d1ea-4fa7-b942-365eb907de34/categories");
     const data = await response.json();
-    setDataMenu(data);
+    setDataMenu(data[0] || []);
     } catch(error) {
       console.error((error as TypeError).message);
     }
@@ -87,8 +87,6 @@ export function MenuSection() {
   useEffect(() => {
     fetchItems();
   }, [fetchItems])
-
-  console.log(dataMenu);
 
   const getFilteredItems = () => {
     if (filter === "all") {
