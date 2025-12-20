@@ -1,0 +1,3745 @@
+{
+  "data": [
+    {
+      "id": "dbdc31a6-b49f-4ef5-8570-d49163cfa478",
+      "name": "Favoritos",
+      "position": -10,
+      "type": "FAVORITE",
+      "visible": false,
+      "products": []
+    },
+    {
+      "id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+      "name": "MENÚ",
+      "position": 0,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Doble medallón de carne + cuádruple cheddar + mayonesa de la casa. Incluye porción de papas",
+          "id": "a057c4d8-0f94-4dd8-9ec0-e0d8c589f84f",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Hamburguesa Cheddar",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c4d8-1220-441e-81f3-1f1520b1fa4c",
+              "cost": 0,
+              "created_at": "2025-11-12 22:57:30",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:18:24"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Doble medallón de carne + cheddar + bacon + mayonesa de la casa. Incluye porción de papas",
+          "id": "a057c569-d0e1-4dfd-bcb2-d94bc57706b7",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Hamburguesa Bacon",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c569-d204-484c-9d59-5a13caa92dfc",
+              "cost": 0,
+              "created_at": "2025-11-12 22:59:06",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9000,
+              "original_price": 9000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-11-14 18:26:24"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Doble medallón de carne + cheddar + barbacoa + cebolla caramelizada. Incluye porción de papas",
+          "id": "a057c5eb-5ee2-4e32-9e65-e87e4d566a77",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Hamburguesa Especial NOX",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c5eb-6099-4f98-916d-f300831f0e52",
+              "cost": 0,
+              "created_at": "2025-11-12 23:00:31",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10000,
+              "original_price": 10000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-11-14 18:26:31"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Cheddar y panceta para papas de hamburguesas",
+          "id": "a057c66f-c82f-47b2-896a-a51d80446933",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Opcional",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c66f-c9e1-4e6e-92d2-4d154a3a8297",
+              "cost": 0,
+              "created_at": "2025-11-12 23:01:58",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 2000,
+              "original_price": 2000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-11-14 18:26:49"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Con dip de salsa",
+          "id": "a057c6e8-4545-44d1-a5df-bddcfc94acf1",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Papas Fritas Simples",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c6e8-47b0-46d3-8e48-1c9cc0e63854",
+              "cost": 0,
+              "created_at": "2025-11-12 23:03:17",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9000,
+              "original_price": 9000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-07 23:41:01"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Con cheddar y bacon",
+          "id": "a057c736-5815-42ab-aa49-13346f3c1d5e",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Papas Fritas Gold",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c736-59c9-4e13-a68e-64bb73db8357",
+              "cost": 0,
+              "created_at": "2025-11-12 23:04:08",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10500,
+              "original_price": 10500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-07 23:41:11"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Con huevo, panceta y cheddar",
+          "id": "a057c8bf-b50a-4a6f-9c81-02dd920f7d8c",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Papas Fritas Full",
+          "position": 6,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c8bf-b844-459e-9954-fb5e3cd9b84c",
+              "cost": 0,
+              "created_at": "2025-11-12 23:08:26",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 11000,
+              "original_price": 11000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-07 23:41:18"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Simples, con dip de salsa",
+          "id": "a057c90c-a432-4396-b287-2df0697b76b7",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Bastones de Muzza",
+          "position": 7,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c90c-a5fa-40ee-aae4-16a35e2bc060",
+              "cost": 0,
+              "created_at": "2025-11-12 23:09:16",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8900,
+              "original_price": 8900,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-11-12 23:11:08"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Simple, con dip de salsa",
+          "id": "a057c9f2-6fe4-4d8c-b70e-cc05bc3f48f3",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Aros de Cebolla",
+          "position": 8,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057c9f2-710d-45bc-a45a-d5ef8355a90e",
+              "cost": 0,
+              "created_at": "2025-11-12 23:11:47",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7900,
+              "original_price": 7900,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-11-12 23:12:29"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Colchón de papas + bastones de muzza + aros de cebolla y cheddar",
+          "id": "a057ca3b-72a2-437d-af7d-d5be2614936a",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Bandeja NOX",
+          "position": 9,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057ca3b-768d-4657-96dc-973e97a04f3b",
+              "cost": 0,
+              "created_at": "2025-11-12 23:12:34",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 12000,
+              "original_price": 12000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-11-14 18:27:22"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Porción de 12, con dip de salsa",
+          "id": "a09a406f-7633-4cc8-b5cf-f7c34cff019f",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Nuggets de Pollo",
+          "position": 10,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a09a406f-79c6-4233-890e-d6f8de56a643",
+              "cost": 0,
+              "created_at": "2025-12-16 00:07:44",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9500,
+              "original_price": 9500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:08:17"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057c397-72d8-4c65-8a15-6b5d547b03b9",
+          "description": "Medallón para hamburguesa",
+          "id": "a09a40bc-366e-45d3-93ec-1f991889d6a5",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Extra medallón de Carne",
+          "position": 11,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a09a40bc-38d9-4fb5-87eb-05b9dca2cb8c",
+              "cost": 0,
+              "created_at": "2025-12-16 00:08:34",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 1500,
+              "original_price": 1500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:09:05"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+      "name": "TRAGOS CLÁSICOS",
+      "position": 1,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Vaso de Fernet Branca con CocaCola",
+          "id": "a0498a1d-f056-4c82-a0cb-eceeef5053fa",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Fernet",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0498a1d-f69d-44fb-8063-f21cf0979a8b",
+              "cost": 0,
+              "created_at": "2025-11-05 21:11:42",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:18:33"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Vaso de Vodka con Sprite o Speed",
+          "id": "a0498c26-b33c-4095-a40b-d8f07e0cf446",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Vaso Vodka Sky",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0498c26-b679-4569-8402-353206e4eee5",
+              "cost": 0,
+              "created_at": "2025-11-05 21:17:24",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:18:38"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Vaso de Campari con jugo de naranja",
+          "id": "a0498c5c-d19d-4374-a277-ebbefe2c22e0",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Campari",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0498c5c-d430-463b-b158-ec3d51e3b188",
+              "cost": 0,
+              "created_at": "2025-11-05 21:17:59",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:18:42"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Vermutt con pomelo",
+          "id": "a0498d63-970f-4ee2-83b6-e5645a5da3d4",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Vermutt Rosso",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0498d63-99d3-41ce-8fbb-e51214d77837",
+              "cost": 0,
+              "created_at": "2025-11-05 21:20:51",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4500,
+              "original_price": 4500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:18:46"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Cinzano Rosso, Gin y Campari",
+          "id": "a0498dfb-6a40-493d-80bf-5f08e48506e9",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Negroni",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0498dfb-7369-47ae-a46a-b7640db90e46",
+              "cost": 0,
+              "created_at": "2025-11-05 21:22:31",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:18:51"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Vaso de Jagger con Red Bull o tónica",
+          "id": "a0632e42-d0cc-4a4e-a18a-6f5377ff4776",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Jagger",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0632e42-d271-4c4a-a796-2bfe8dfd1cf5",
+              "cost": 0,
+              "created_at": "2025-11-18 15:06:23",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:18:55"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Whisky, azúcar y Agostura",
+          "id": "a0498f04-c0a7-49e8-b8ba-ee58b1197a60",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Old Fashioned",
+          "position": 6,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0498f04-c362-40cb-bb19-5c22644bc1b3",
+              "cost": 0,
+              "created_at": "2025-11-05 21:25:25",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:05"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Ron, CocaCola y rodaja de Limón",
+          "id": "a0499091-81b4-4c81-96ee-17bc9e8c9d2b",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Cuba Libre",
+          "position": 7,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499091-86d0-450a-923f-972e9abecf3b",
+              "cost": 0,
+              "created_at": "2025-11-05 21:29:45",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:09"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Aperol, Champagne, rodaja de naranja y soda",
+          "id": "a0499134-7ba6-47d5-b882-712f575ae301",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Aperol Spritz",
+          "position": 8,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499134-7cff-43b9-91a5-a0119a551794",
+              "cost": 0,
+              "created_at": "2025-11-05 21:31:31",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:15"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Vodka con jugo de naranja",
+          "id": "a0499194-5562-4eb7-b26c-bc37c5d57c1c",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Destornillador",
+          "position": 9,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499194-56de-49e0-81cc-7ae61cad866a",
+              "cost": 0,
+              "created_at": "2025-11-05 21:32:34",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:19"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Gin, tónica y fruta a elección. (Limón, pomelo, naranja, pepino, pimienta, frutos rojos)",
+          "id": "a049924a-dbc2-4db8-bfa8-904aacd16c0c",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Gin Tonic Brigthoon",
+          "position": 10,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049924a-dd2b-4603-8e76-ccbc85222e60",
+              "cost": 0,
+              "created_at": "2025-11-05 21:34:34",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:23"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Gin con tónica y fruta a elección. (Limón, pomelo, naranja, pepino, pimienta, frutos rojos)",
+          "id": "a062f6ba-0a23-47e8-9f0f-1284ac038964",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Gin Tonic Apóstoles",
+          "position": 11,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f6ba-0cfd-4075-8d76-b3fc7deeca13",
+              "cost": 0,
+              "created_at": "2025-11-18 12:31:06",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:28"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Gin azul, verde, blanco y rosa, con tónica y fruta a elección. (Limón, pomelo, naranja, pepino, pimienta, frutos rojos)",
+          "id": "a062f709-2862-4fb9-9d48-9be97f57c72c",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Gin Tonic Aconcagua",
+          "position": 12,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f709-2b5e-4f6e-81f7-1fceb166f763",
+              "cost": 0,
+              "created_at": "2025-11-18 12:31:58",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:36"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Gin clásico, rosa y naranja con tónica y fruta a elección. (Limón, pomelo, naranja, pepino, pimienta, frutos rojos)",
+          "id": "a062f769-e9f3-4359-8354-6bf7353ed19b",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Gin Tonic Beefeater",
+          "position": 13,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f769-eb5e-474d-8f77-cbbce98c986b",
+              "cost": 0,
+              "created_at": "2025-11-18 12:33:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9000,
+              "original_price": 9000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:40"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Gin Clásico y royal con tónica y fruta a elección. (Limón, pomelo, naranja, pepino, pimienta, frutos rojos)",
+          "id": "a062f7d6-d44f-4458-abed-6eca316c52fe",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Gin Tonic Tanqueray",
+          "position": 14,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f7d6-d69a-4a6d-946c-e705a78395bc",
+              "cost": 0,
+              "created_at": "2025-11-18 12:34:12",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10500,
+              "original_price": 10500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:45"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Gin, tónica y frutos rojos",
+          "id": "a0756ae6-cfff-4821-8cb4-059cea6e7201",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Gin Bombay de Frutos rojos",
+          "position": 15,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0756ae6-d298-4d12-b5dd-70b76a6374a3",
+              "cost": 0,
+              "created_at": "2025-11-27 16:40:51",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9500,
+              "original_price": 9500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:50"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Cinzano Rosso, Whisky y Campari",
+          "id": "a0499387-2f1a-46a1-9a48-d6d6590d3cdd",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Boulevardier",
+          "position": 16,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499387-3198-4b5f-b6ab-c073a9f00593",
+              "cost": 0,
+              "created_at": "2025-11-05 21:38:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:55"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Whisky y Coca Cola",
+          "id": "a049942f-5a4e-4fcc-b7a0-2ff3dc3ba4e4",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Whiscola",
+          "position": 17,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049942f-5bff-4930-8944-58c99d9eeac7",
+              "cost": 0,
+              "created_at": "2025-11-05 21:39:51",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:19:59"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Gancia, Sprite o tónica, limon y almíbar",
+          "id": "a04996b3-da75-4d44-8234-498d836de44f",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Gancia",
+          "position": 18,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a04996b3-dd58-45d7-a079-356f4c949a9b",
+              "cost": 0,
+              "created_at": "2025-11-05 21:46:54",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4500,
+              "original_price": 4500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:05"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Ramazzotti con tónica o champagne",
+          "id": "a063342f-0b03-4aa2-a692-a3d6037f7353",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Ramazzotti",
+          "position": 19,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a063342f-0de7-4d8a-b70b-156d5b889907",
+              "cost": 0,
+              "created_at": "2025-11-18 15:22:57",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:08"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a04750ff-d201-4d21-9caf-b1107c21c460",
+          "description": "Vaso de vodka con sprite o Red Bull",
+          "id": "a06c886a-8dac-4fa6-a338-8c0a82cb2f0d",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Vaso de Vodka Absolut",
+          "position": 20,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06c886a-917a-46a6-933f-70e81cebd27f",
+              "cost": 0,
+              "created_at": "2025-11-23 06:40:55",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:12"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+      "name": "MEDIDAS",
+      "position": 2,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Fernet Branca y CocaCola",
+          "id": "a049ac9e-09ab-4f99-b76d-0d868be370b1",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Medida de Fernet",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049ac9e-0a87-4620-a74c-aff39a8e4ef9",
+              "cost": 0,
+              "created_at": "2025-11-05 22:48:10",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 13500,
+              "original_price": 13500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:19"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Vodka, Sprite y limón",
+          "id": "a049ad7a-b36e-464b-bd3e-75611646f133",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Medida de Vodka Sky",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049ad7a-b529-46cf-bc60-3a8e7a33e6c2",
+              "cost": 0,
+              "created_at": "2025-11-05 22:50:35",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10500,
+              "original_price": 10500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:24"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Vodka, Sprite y limón",
+          "id": "a062f54b-4cd7-4733-87c0-c8a75efeee30",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Medida de Vodka Absolut",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f54b-4ee1-4eea-b7b8-c3d1b300309c",
+              "cost": 0,
+              "created_at": "2025-11-18 12:27:05",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 15500,
+              "original_price": 15500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:30"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Jagger con Red Bull o tónica",
+          "id": "a0633b3c-3f88-4aba-97c8-12234c54da33",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Medida de Jagger",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0633b3c-41da-48d1-8089-2349710addc1",
+              "cost": 0,
+              "created_at": "2025-11-18 15:42:40",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 15500,
+              "original_price": 15500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:36"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Vaso corto de whisky",
+          "id": "a062f98f-b2df-46ec-8a17-9fdc5aeffaeb",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Whisky Johnnie Walker Red",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f98f-b450-4388-8322-98abd83ec348",
+              "cost": 0,
+              "created_at": "2025-11-18 12:39:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:40"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Vaso corto de whisky",
+          "id": "a06329c0-a865-4b07-971f-e29f211e85d3",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Whisky Johnnie Walker Black",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06329c0-ab19-4b28-b2e7-8d61fd8ff4bf",
+              "cost": 0,
+              "created_at": "2025-11-18 14:53:46",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 11500,
+              "original_price": 11500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:47"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Vaso corto de whisky",
+          "id": "a06329fb-512b-4873-83ea-18cb4a2bc1aa",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Whisky Johnnie Walker doble Black",
+          "position": 6,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06329fb-538c-458d-bfd9-54a208695f99",
+              "cost": 0,
+              "created_at": "2025-11-18 14:54:25",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 13500,
+              "original_price": 13500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:51"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Vaso corto de whisky",
+          "id": "a0632a41-7405-44bc-809a-d15da3bbc9e3",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Whisky Jameson",
+          "position": 7,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0632a41-757f-4f44-8a31-34f9449c509d",
+              "cost": 0,
+              "created_at": "2025-11-18 14:55:11",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:20:55"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Vaso corto de whisky",
+          "id": "a0632a8c-c642-4df8-b177-ed597da38064",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Whisky Benchmark",
+          "position": 8,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0632a8c-c7f8-4185-9d33-75812dc44b94",
+              "cost": 0,
+              "created_at": "2025-11-18 14:56:00",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:21:01"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Vaso corto de whisky",
+          "id": "a0756a3d-45cf-4128-9cf9-564f1360620b",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Whisky Jack Daniels",
+          "position": 9,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0756a3d-4b07-480d-809d-6a2370aea07e",
+              "cost": 0,
+              "created_at": "2025-11-27 16:39:00",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:21:06"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ac9d-ec92-4bbc-8e4e-5ffbcbbb8b4a",
+          "description": "Tequila, limón y sal",
+          "id": "a049b959-e98f-4c26-9032-0db4f24749e4",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Shot de Tequila",
+          "position": 10,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049b959-eb3a-4470-9666-f0ea992c30ab",
+              "cost": 0,
+              "created_at": "2025-11-05 23:23:47",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 00:21:11"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+      "name": "TRAGOS REFRESCANTES",
+      "position": 3,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Ron, jugo de limón, almíbar y menta",
+          "id": "a05efce3-7696-4628-826d-d865f143f0e4",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Mojito clásico",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a05efce3-78a0-42e5-ace2-7c387ca8748d",
+              "cost": 0,
+              "created_at": "2025-11-16 13:05:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:08"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Ron con pulpa de durazno, ananá, frutilla, arándanos, mango y maracuyá",
+          "id": "a0499767-9e10-4ee4-bae5-b551adc4b436",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Mojito Saborizado",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499767-a089-4203-961d-d92c8037c4a7",
+              "cost": 0,
+              "created_at": "2025-11-05 21:48:52",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:13"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Ron, Malibú, almíbar y limón",
+          "id": "a049a005-b334-4baa-b756-ba4f6c75cff7",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Mojito Malibú",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049a005-b6d7-433a-9362-17d77d955254",
+              "cost": 0,
+              "created_at": "2025-11-05 22:12:57",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:17"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Whisky Jameson, Sprite, almíbar, limón y menta",
+          "id": "a057946c-c8e7-4498-afb9-5ed5a288043a",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Mojito Jameson",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057946c-ca25-4662-8939-a9aa3db12976",
+              "cost": 0,
+              "created_at": "2025-11-12 20:42:07",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:20"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Aperol, Ron, almíbar y limón",
+          "id": "a04997ba-31e4-4901-aa21-e8dd1451e316",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Mojito Aperol",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a04997ba-3373-4a8d-b0d3-cca225732651",
+              "cost": 0,
+              "created_at": "2025-11-05 21:49:46",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:24"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Whisky Escocés, Whisky Bourbon, menta, almíbar y limón",
+          "id": "a04998b9-6495-42e3-9ea9-12327e664514",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Mint Julep",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a04998b9-665b-475a-8af3-29fd6b78f576",
+              "cost": 0,
+              "created_at": "2025-11-05 21:52:33",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:28"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Vodka, almíbar y limón",
+          "id": "a0499acd-f1c0-4001-a11a-1c5186a6a328",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Caipiroska",
+          "position": 6,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499acd-f341-4ce1-b7c7-367e046aa8df",
+              "cost": 0,
+              "created_at": "2025-11-05 21:58:22",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:32"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Cachaca, almíbar y limón",
+          "id": "a0499ba8-64a8-49fa-9a29-9d2014c26e54",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Caipiriña",
+          "position": 7,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499ba8-6680-49be-8d84-48e15b60ba6e",
+              "cost": 0,
+              "created_at": "2025-11-05 22:00:45",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:40"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Ron, almíbar y limón",
+          "id": "a0499c67-4d73-49bf-b5c8-866ab13a61b2",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Caipirissima",
+          "position": 8,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499c67-4eba-420a-afeb-14293e67356c",
+              "cost": 0,
+              "created_at": "2025-11-05 22:02:50",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:44"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Limón, almíbar, jugo de naranja y jagger",
+          "id": "a0756b53-9155-4d58-a14b-ef7acc3c2bd7",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Caipi Jagger",
+          "position": 9,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0756b53-9391-4135-9c18-f2a48e1993c9",
+              "cost": 0,
+              "created_at": "2025-11-27 16:42:02",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 11500,
+              "original_price": 11500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:47"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Limón, almíbar, Vodka, y Malibú",
+          "id": "a0756bad-8603-44cd-b7ba-74b769c98c5f",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Caipi Malibú",
+          "position": 10,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0756bad-8828-46f8-a743-20d9ff19c354",
+              "cost": 0,
+              "created_at": "2025-11-27 16:43:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10500,
+              "original_price": 10500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:51"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Cynar, gaseosa de pomelo, menta, almíbar y limón",
+          "id": "a0499d43-2a32-4810-8708-01264a654ad6",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Cynar Julep",
+          "position": 11,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0499d43-2bc8-45f2-886a-a5e39870ccc8",
+              "cost": 0,
+              "created_at": "2025-11-05 22:05:14",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:31:55"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Whisky, Sprite, almíbar y Limón",
+          "id": "a049a066-1968-4837-bc4b-5f3064bd3c60",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Jameson Lemon",
+          "position": 12,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049a066-1ace-4e30-9c03-65d35260e40b",
+              "cost": 0,
+              "created_at": "2025-11-05 22:14:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:00"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Aperol y Champagne",
+          "id": "a049a637-b0a8-4186-ad31-64be4ea44f7d",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Aperol Spritz",
+          "position": 13,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049a637-b26e-4fd2-94d7-c364943147f7",
+              "cost": 0,
+              "created_at": "2025-11-05 22:30:17",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:02"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Vino, azúcar, naranja, limón, pomelo, y licor de naranja",
+          "id": "a049a845-5aa5-43ad-b96b-0795752909e5",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Sangría",
+          "position": 14,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049a845-5c4b-4d47-819f-9a973d9bb491",
+              "cost": 0,
+              "created_at": "2025-11-05 22:36:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:06"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Vodka, Tequila, Ron blanco, Gin, Triple sec, jugo de limón y CocaCola",
+          "id": "a049a8fb-75d1-45e2-ae97-058f41bac17e",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Long Island Ice Tea",
+          "position": 15,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049a8fb-772a-431d-b82b-45a8cbcff771",
+              "cost": 0,
+              "created_at": "2025-11-05 22:38:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:10"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Gin, jugo de limón, almíbar y soda",
+          "id": "a049aacd-0687-45e6-abeb-c71d52210f48",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tom Collins",
+          "position": 16,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049aacd-07dc-4850-8f5c-184605d0c66c",
+              "cost": 0,
+              "created_at": "2025-11-05 22:43:06",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:13"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Ron, jugo de limón, almíbar y soda",
+          "id": "a049ab0b-aa65-421e-9d93-5f0070617b71",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Daikiri Frozen",
+          "position": 17,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049ab0b-ac3d-45df-bc68-8aa027eba945",
+              "cost": 0,
+              "created_at": "2025-11-05 22:43:47",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9500,
+              "original_price": 9500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:17"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0475100-46d1-4e08-9dcf-f07c2a35f4d8",
+          "description": "Ron dorado, Ron blanco, Amaretto, Contreu, Granadina, limón y almíbar",
+          "id": "a049abdb-a2d6-45ed-86e5-882722b64d87",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Mai Tai",
+          "position": 18,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049abdb-a4d3-4291-baf4-c7e4d55d11b2",
+              "cost": 0,
+              "created_at": "2025-11-05 22:46:03",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:21"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a049bb71-6381-4d35-bbd3-0693193539a2",
+      "name": "TRAGOS DE AUTOR",
+      "position": 4,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a049bb71-6381-4d35-bbd3-0693193539a2",
+          "description": "Gin Aconcagua blanco, jugo de pomelo, limón y almíbar",
+          "id": "a049bb71-6b5c-4633-b6c4-fb8d95e5b835",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Pentatonic",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049bb71-6ca2-4da5-aa4c-946f73695340",
+              "cost": 0,
+              "created_at": "2025-11-05 23:29:38",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:27"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049bb71-6381-4d35-bbd3-0693193539a2",
+          "description": "Vodka, blue curacao, ananá, frutilla, limón y almíbar",
+          "id": "a049bbea-02a7-4e28-ba15-275f43dfd808",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tiburoncin",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049bbea-0438-49dd-a491-ae61bd52395c",
+              "cost": 0,
+              "created_at": "2025-11-05 23:30:57",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:32"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049bb71-6381-4d35-bbd3-0693193539a2",
+          "description": "Gin, durazno, limón y almíbar",
+          "id": "a049bc64-cbaa-410e-98f0-6db1251b1e95",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "California Dreaming",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049bc64-cd13-4acc-a82c-545f62d15cce",
+              "cost": 0,
+              "created_at": "2025-11-05 23:32:17",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:35"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049bb71-6381-4d35-bbd3-0693193539a2",
+          "description": "Whisky, Angostura y licor de chocolate",
+          "id": "a049bc96-3ae6-48f9-aebb-e508adb984aa",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Viejo Dulce",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049bc96-3c34-45f6-9785-0fd564429fe9",
+              "cost": 0,
+              "created_at": "2025-11-05 23:32:50",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:39"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049bb71-6381-4d35-bbd3-0693193539a2",
+          "description": "Whisky, miel, limón y almíbar",
+          "id": "a05f00fc-096c-4dde-86f6-3d44d56751e6",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Honey Hit",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a05f00fc-0b14-4306-8bf6-dc4838a7a1ce",
+              "cost": 0,
+              "created_at": "2025-11-16 13:16:28",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:43"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049bb71-6381-4d35-bbd3-0693193539a2",
+          "description": "Jagger, Cynar, Fernet y jugo de pomelo",
+          "id": "a049bcdc-3d7c-4e7c-bd21-173a98558671",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "El Diegote",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049bcdc-3f47-4716-bc7b-5536b1fc1002",
+              "cost": 0,
+              "created_at": "2025-11-05 23:33:36",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:47"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049bb71-6381-4d35-bbd3-0693193539a2",
+          "description": "Vodka de durazno, pulpa de maracuyá, pulpa de mango, almíbar y jugo de uva",
+          "id": "a09a4126-bc43-47dc-9491-2c5f979bdbf2",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Mosquita Muerta",
+          "position": 6,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a09a4126-bebf-49a2-b0e6-37d47a9e9b40",
+              "cost": 0,
+              "created_at": "2025-12-16 00:09:44",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:32:57"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+      "name": "TANQUES",
+      "position": 5,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Fernet Branca con CocaCola",
+          "id": "a049ae31-d6e4-4a41-a808-e0c12ea5b2ca",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Fernet",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049ae31-e741-44db-82f0-4977fd0c20a7",
+              "cost": 0,
+              "created_at": "2025-11-05 22:52:35",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:10"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de vodka con Sprite o Speed y limón",
+          "id": "a049af50-68cc-4862-965c-cf08f0f6c956",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Vodka",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049af50-6ae3-4da7-b928-cece85d56070",
+              "cost": 0,
+              "created_at": "2025-11-05 22:55:43",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:14"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Campari con jugo de naranja",
+          "id": "a049af8a-b9dc-4a4b-881a-575e0d8b763f",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Campari",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049af8a-bbc0-4190-941f-4b397254218a",
+              "cost": 0,
+              "created_at": "2025-11-05 22:56:21",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7500,
+              "original_price": 7500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:18"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Ron, jugo de Limón y almíbar",
+          "id": "a049afd7-ebca-409f-9c12-4f80d4f40930",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Mojito",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049afd7-ed2d-4655-8054-1ee2f2b2a4a5",
+              "cost": 0,
+              "created_at": "2025-11-05 22:57:12",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:21"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Ron, jugo de Limón, almíbar, menta, y pulpas",
+          "id": "a062ef4c-d55e-4175-a9ee-e462135c6239",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Mojito Saborizado o Malibú",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062ef4c-d71d-45c8-a9f8-7b9325b2bb74",
+              "cost": 0,
+              "created_at": "2025-11-18 12:10:20",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9500,
+              "original_price": 9500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:25"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Whisky Jameson, Sprite, almíbar, limón y menta",
+          "id": "a062f01d-681d-4974-bc54-89f8419bfe86",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Mojito Jameson",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f01d-6960-48aa-84a7-0bd044cf76f6",
+              "cost": 0,
+              "created_at": "2025-11-18 12:12:36",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10500,
+              "original_price": 10500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:28"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Aperol, Ron, almíbar y limón",
+          "id": "a062f092-8c6c-4ccc-819d-5f1239e657ed",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Mojito Aperol",
+          "position": 6,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f092-8e6b-49e1-9c91-33d4670e3bb8",
+              "cost": 0,
+              "created_at": "2025-11-18 12:13:53",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9500,
+              "original_price": 9500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:32"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Vermutt Rosso con pomelo",
+          "id": "a049b0ca-b126-4ca2-833b-9f9016c34954",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Vermutt Rosso",
+          "position": 7,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049b0ca-b27a-4db8-a42a-9c2da4332948",
+              "cost": 0,
+              "created_at": "2025-11-05 22:59:51",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:36"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Jagger con Red Bull o Tónica",
+          "id": "a049b37d-076e-446e-b117-94bccc39f5ca",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Jagger",
+          "position": 8,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049b37d-08eb-406d-b5c8-66cfedfa8d8a",
+              "cost": 0,
+              "created_at": "2025-11-05 23:07:23",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10500,
+              "original_price": 10500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:44"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Ron, Cocacola y rodaja de limón",
+          "id": "a049b49a-de3d-4016-9808-248e6284bb6c",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Cuba Libre",
+          "position": 9,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049b49a-e00a-4d9a-92fb-8c2cc3ea28de",
+              "cost": 0,
+              "created_at": "2025-11-05 23:10:31",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10500,
+              "original_price": 10500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:49"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Vodka con jugo de naranja",
+          "id": "a049ba30-09d2-4a41-a131-e10e790638dd",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Destornillador",
+          "position": 10,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049ba30-0c3c-47bf-8d3e-4ece28fe028f",
+              "cost": 0,
+              "created_at": "2025-11-05 23:26:07",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:53"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Whisky y CocaCola",
+          "id": "a062eebc-936c-4566-aea6-7652780b6e43",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Whiscola",
+          "position": 11,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062eebc-95f4-4bcf-99f8-0940614aca03",
+              "cost": 0,
+              "created_at": "2025-11-18 12:08:45",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10500,
+              "original_price": 10500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:33:56"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500 ml de vino, azúcar, naranja, limón, pomelo, y licor de naranja",
+          "id": "a062f123-b0d6-43b5-a4b0-67cd44b9f3ca",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Sangría",
+          "position": 12,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f123-b243-4a99-b238-e571570a30df",
+              "cost": 0,
+              "created_at": "2025-11-18 12:15:28",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:00"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Gancia con Sprite o Tónica",
+          "id": "a049bb1d-8482-4792-aaa1-51ab7e4d1c09",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Gancia",
+          "position": 13,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049bb1d-8666-4c3f-92a3-777f40b6f596",
+              "cost": 0,
+              "created_at": "2025-11-05 23:28:43",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:04"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de Whisky, miel, limón y almíbar",
+          "id": "a062f40a-c089-4cb1-a0c4-b49ae547e0a7",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Honey Hit",
+          "position": 14,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062f40a-c25d-47b0-8d1d-87eb9042124c",
+              "cost": 0,
+              "created_at": "2025-11-18 12:23:35",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 11500,
+              "original_price": 11500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:09"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a049ae11-54b3-49c7-a207-8d60fe7debfa",
+          "description": "500ml de jugo de limón, almíbar y menta",
+          "id": "a049badb-e5bc-47ed-b6d6-2a0f570d74fa",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Limonada",
+          "position": 15,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a049badb-e75e-4172-9e03-f7aef9927fea",
+              "cost": 0,
+              "created_at": "2025-11-05 23:28:00",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:12"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a057b263-28c0-4f09-84e1-53f5c856c70e",
+      "name": "CERVEZA TIRADA",
+      "position": 6,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a057b263-28c0-4f09-84e1-53f5c856c70e",
+          "description": "Vaso pinta de 540ml",
+          "id": "a057b263-d0e2-4e1a-ad17-573fe7b694f9",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Rubia",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057b263-d243-4753-ac7f-2b16ec375951",
+              "cost": 0,
+              "created_at": "2025-11-12 22:05:54",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4500,
+              "original_price": 4500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:18"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057b263-28c0-4f09-84e1-53f5c856c70e",
+          "description": "Vaso pinta de 540ml",
+          "id": "a057b2e4-08d9-42c3-bcb1-9b422927461e",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Roja",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057b2e4-0afc-4507-a191-1e2fb3908b9e",
+              "cost": 0,
+              "created_at": "2025-11-12 22:07:18",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4500,
+              "original_price": 4500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:22"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057b263-28c0-4f09-84e1-53f5c856c70e",
+          "description": "Vaso pinta de 540ml",
+          "id": "a057b2f3-3e8d-4282-a516-f60755cc9a4d",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Negra",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057b2f3-4069-4a90-96d1-49fc350b7836",
+              "cost": 0,
+              "created_at": "2025-11-12 22:07:28",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4500,
+              "original_price": 4500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:25"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a057ace0-b8a0-4312-a7ac-8f4d3027ae48",
+      "name": "CERVEZAS INDUSTRIALES",
+      "position": 7,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a057ace0-b8a0-4312-a7ac-8f4d3027ae48",
+          "description": "Lata de 470ml de cerveza Quilmes rubia clásica",
+          "id": "a057ace1-6773-4841-b15b-10260da9bcbf",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Quilmes",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057ace1-6968-4878-9eaf-1e89f09ccaf2",
+              "cost": 0,
+              "created_at": "2025-11-12 21:50:30",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4500,
+              "original_price": 4500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:32"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057ace0-b8a0-4312-a7ac-8f4d3027ae48",
+          "description": "Lata de 470ml de cerveza Quilmes IPA",
+          "id": "a062eb23-4363-45d5-9a42-1a42c202e980",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Quilmes IPA",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062eb23-457d-4449-8809-b47c3510bd73",
+              "cost": 0,
+              "created_at": "2025-11-18 11:58:41",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4500,
+              "original_price": 4500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:36"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057ace0-b8a0-4312-a7ac-8f4d3027ae48",
+          "description": "Lata de 473ml de cerveza Andes origen rubia, roja y negra",
+          "id": "a057b06a-722a-4774-8e4a-dd8b9708f1ef",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Andes Origen",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057b06a-7372-4a9c-a92a-f2d982b37ed7",
+              "cost": 0,
+              "created_at": "2025-11-12 22:00:23",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5000,
+              "original_price": 5000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:41"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057ace0-b8a0-4312-a7ac-8f4d3027ae48",
+          "description": "Lata de 473ml de cerveza Stella rubia y negra",
+          "id": "a057b0ea-4c9a-4db3-8caa-a5620a9189fe",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Stella",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057b0ea-4e74-4015-b6e0-353b65ad8cc8",
+              "cost": 0,
+              "created_at": "2025-11-12 22:01:47",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:46"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057ace0-b8a0-4312-a7ac-8f4d3027ae48",
+          "description": "Botella chica",
+          "id": "a057b140-49d1-413a-8af5-4b1bd78c7127",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Corona 330ml",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057b140-4b7a-490e-a40b-66f7b911ca29",
+              "cost": 0,
+              "created_at": "2025-11-12 22:02:43",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5500,
+              "original_price": 5500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:50"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a057ace0-b8a0-4312-a7ac-8f4d3027ae48",
+          "description": "Botella grande",
+          "id": "a062eaa6-e575-47b0-b55f-30da6d9b3796",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Corona 750ml",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062eaa6-e82b-430c-958a-31667e818c1f",
+              "cost": 0,
+              "created_at": "2025-11-18 11:57:20",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:34:54"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+      "name": "VINOS",
+      "position": 8,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella x 750ml",
+          "id": "a069dc0f-140d-46bb-a673-f974de60a410",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Nampe blanco dulce",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a069dc0f-172c-4025-912c-6fad693228ad",
+              "cost": 0,
+              "created_at": "2025-11-21 22:47:19",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6000,
+              "original_price": 6000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:00"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella 750ml",
+          "id": "a069dde1-601f-4610-95f2-c7f586716727",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Nampe Malbec",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a069dde1-65e0-4d97-b062-31a6334a793a",
+              "cost": 0,
+              "created_at": "2025-11-21 22:52:25",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5000,
+              "original_price": 5000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:04"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella x750ml",
+          "id": "a069dcc1-e065-4b04-a5fd-f5c32f740943",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Conejo Verde dulce natural",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a069dcc1-e25d-411d-90a3-f25e49c791d2",
+              "cost": 0,
+              "created_at": "2025-11-21 22:49:17",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10000,
+              "original_price": 10000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:10"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella 750ml",
+          "id": "a069dd4a-decb-4ccc-850f-4eef2155fa04",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Conejo verde Malbec",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a069dd4a-e113-4608-8c68-e08ce9ba52ad",
+              "cost": 0,
+              "created_at": "2025-11-21 22:50:46",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7150,
+              "original_price": 7150,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:28"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella x750ml",
+          "id": "a069dd9c-4e5a-46e2-90e9-6b51894763c6",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Cafayate Torr dulce tardio",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a069dd9c-5082-414d-8035-80a07bdcb7ae",
+              "cost": 0,
+              "created_at": "2025-11-21 22:51:40",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 7600,
+              "original_price": 7600,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:33"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella x750ml",
+          "id": "a069de11-d1e0-4abd-82f9-589d3adf6608",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Latitud 33 Malbec",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a069de11-d416-41ee-bb09-d342db0ddeaf",
+              "cost": 0,
+              "created_at": "2025-11-21 22:52:57",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 10000,
+              "original_price": 10000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:38"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a069f332-99b0-49d3-90f4-0b6e7b477cab",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Perro Bueno Malbec",
+          "position": 6,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a069f332-9bf9-4257-a5cd-abeb6b8de137",
+              "cost": 0,
+              "created_at": "2025-11-21 23:52:01",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 9500,
+              "original_price": 9500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:47"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a06e1d87-97de-429f-bdfc-415e83b02a78",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Familia Ripa Malbec",
+          "position": 7,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1d87-9a05-4f60-b245-a6c620fa6657",
+              "cost": 0,
+              "created_at": "2025-11-24 01:33:42",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:54"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a06e1dd8-a674-4eaf-8d18-45edc3b79eb3",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Familia Ripa cabernet sauvignon",
+          "position": 8,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1dd8-a8d4-4927-bf3b-d89171c38b1f",
+              "cost": 0,
+              "created_at": "2025-11-24 01:34:35",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 8500,
+              "original_price": 8500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:35:59"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a06e1d4a-1027-47f4-a7c2-eba2decff201",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "La Abeja Sauvignon blanc",
+          "position": 9,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1d4a-13ea-46c2-8627-e5e6adff2a19",
+              "cost": 0,
+              "created_at": "2025-11-24 01:33:02",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 12500,
+              "original_price": 12500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:03"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a06e1e12-93e0-4020-ac74-7ade7be021c2",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "La Abeja Tempranillo gran reserva",
+          "position": 10,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1e12-962c-401e-ba52-e8487c6c3b8f",
+              "cost": 0,
+              "created_at": "2025-11-24 01:35:13",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 30500,
+              "original_price": 30500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:08"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a06e1ee4-d787-4081-a0aa-eebebb84d521",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "La Abeja rosado dulce",
+          "position": 11,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1ee4-dacc-42df-89ad-c61335517688",
+              "cost": 0,
+              "created_at": "2025-11-24 01:37:31",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 12500,
+              "original_price": 12500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:16"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a06e1f36-979c-4148-8c32-974163a01681",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "La Abeja gran reserva cabernet s.",
+          "position": 12,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1f36-9a0f-4541-8001-f2250ee284d2",
+              "cost": 0,
+              "created_at": "2025-11-24 01:38:25",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 30500,
+              "original_price": 30500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:24"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a06e1f9e-b39c-429c-bd3d-ec8f558642e1",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "La Abeja gran reserva torrontes",
+          "position": 13,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1f9e-b619-4c75-a5f0-c7e5a26b23c6",
+              "cost": 0,
+              "created_at": "2025-11-24 01:39:33",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 15500,
+              "original_price": 15500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:28"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": null,
+          "id": "a06e1fd0-fb80-46d0-b733-f47f838985ca",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "La Abeja malbec tempranillo",
+          "position": 14,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1fd0-ff4d-4995-be4e-e179f41085a6",
+              "cost": 0,
+              "created_at": "2025-11-24 01:40:06",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 12500,
+              "original_price": 12500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:32"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a069dc0e-6fb8-4d08-8718-a7af922b4c54",
+          "description": "Botella de 750ml",
+          "id": "a06e1e7e-523b-47ec-9625-b2f564034994",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Casona Iselin reserva malbec",
+          "position": 15,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a06e1e7e-545d-4735-a5dc-a542eb2e5e67",
+              "cost": 0,
+              "created_at": "2025-11-24 01:36:24",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 30500,
+              "original_price": 30500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:37"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a0632b2a-83e7-4e6d-9d09-45f8f6d5ef88",
+      "name": "ESPUMANTES",
+      "position": 9,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a0632b2a-83e7-4e6d-9d09-45f8f6d5ef88",
+          "description": "Botella + Red Bull",
+          "id": "a0632b2c-29ed-4510-adef-1fff47be3fb9",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Champagne Chandon Extra Brut",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0632b2c-2b32-4fe1-9b81-516934b72956",
+              "cost": 0,
+              "created_at": "2025-11-18 14:57:45",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 26500,
+              "original_price": 26500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:47"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0632b2a-83e7-4e6d-9d09-45f8f6d5ef88",
+          "description": "Botella + Red Bull",
+          "id": "a0632c7f-6f61-4a3e-862b-d7f188a29231",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Champagne Chandon Aperitif",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0632c7f-714b-48c0-972f-1e953333170c",
+              "cost": 0,
+              "created_at": "2025-11-18 15:01:27",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 26500,
+              "original_price": 26500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:51"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0632b2a-83e7-4e6d-9d09-45f8f6d5ef88",
+          "description": "Botella + Red Bull",
+          "id": "a0632cd6-0daf-4055-9b4f-4cdf27f03ae7",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Champagne Chandon Delice",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0632cd6-0f82-444c-8619-007e321f780b",
+              "cost": 0,
+              "created_at": "2025-11-18 15:02:24",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 26500,
+              "original_price": 26500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:54"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0632b2a-83e7-4e6d-9d09-45f8f6d5ef88",
+          "description": "Botella + Red Bull",
+          "id": "a0632cfc-6d77-4783-b492-2818079ddbfc",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Champagne Chandon Brute Nature",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0632cfc-6fa3-40a6-99b2-6fde543449b9",
+              "cost": 0,
+              "created_at": "2025-11-18 15:02:49",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 30500,
+              "original_price": 30500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:36:59"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a0579381-e544-4a2a-a1c1-203eab9b37d5",
+      "name": "SIN ALCOHOL",
+      "position": 10,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a0579381-e544-4a2a-a1c1-203eab9b37d5",
+          "description": "Jugo de limón, almíbar y menta",
+          "id": "a0579382-9822-4ed3-aba6-927cf07316a4",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Limonada",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0579382-9b1a-4b83-b3b2-237c1103e91c",
+              "cost": 0,
+              "created_at": "2025-11-12 20:39:34",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4000,
+              "original_price": 4000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:05"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0579381-e544-4a2a-a1c1-203eab9b37d5",
+          "description": "500ml de jugo de limón, almíbar y menta",
+          "id": "a0632ff3-11d2-4a2c-8a8b-733942580fa3",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Tanque de Limonada",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0632ff3-1412-4d49-91d3-7923653230ce",
+              "cost": 0,
+              "created_at": "2025-11-18 15:11:06",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 6500,
+              "original_price": 6500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:09"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0579381-e544-4a2a-a1c1-203eab9b37d5",
+          "description": "Jugo de pomelo y almíbar",
+          "id": "a0579a82-640d-4c98-b69c-b17d616bd03f",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Pomelada",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0579a82-65ef-4071-b9ee-3d30bd19d8c8",
+              "cost": 0,
+              "created_at": "2025-11-12 20:59:08",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4000,
+              "original_price": 4000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:13"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0579381-e544-4a2a-a1c1-203eab9b37d5",
+          "description": "Botella de cerveza Corona 330ml, sin alcohol",
+          "id": "a062ec6a-17b3-42b9-94e9-aded04c440dc",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Cerveza Corona",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062ec6a-1944-49d5-a6f1-7473fd83167c",
+              "cost": 0,
+              "created_at": "2025-11-18 12:02:16",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5000,
+              "original_price": 5000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:17"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    },
+    {
+      "id": "a0579b29-7440-48c3-a436-ac5d99155367",
+      "name": "GASEOSAS",
+      "position": 11,
+      "type": "NORMAL",
+      "visible": true,
+      "products": [
+        {
+          "product_category_id": "a0579b29-7440-48c3-a436-ac5d99155367",
+          "description": "Botella de 500ml",
+          "id": "a0579b2a-81fe-4419-866f-1d4ed2c79d58",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Coca Cola",
+          "position": 0,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0579b2a-840e-48bf-b9e3-2a559480f951",
+              "cost": 0,
+              "created_at": "2025-11-12 21:00:58",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5000,
+              "original_price": 5000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:24"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0579b29-7440-48c3-a436-ac5d99155367",
+          "description": "Botella de 500ml",
+          "id": "a0579b89-8045-4b42-a3d5-3d813e6f9811",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Pepsi",
+          "position": 1,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0579b89-8206-44fd-beec-f04bf1511141",
+              "cost": 0,
+              "created_at": "2025-11-12 21:02:00",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 3500,
+              "original_price": 3500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:28"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0579b29-7440-48c3-a436-ac5d99155367",
+          "description": "Botella de 500ml",
+          "id": "a0579cbc-fd88-40c3-9b86-e6bc41095dec",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Seven Up",
+          "position": 2,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a0579cbd-0006-43ed-9dce-bfdc5bc37d6e",
+              "cost": 0,
+              "created_at": "2025-11-12 21:05:22",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 3500,
+              "original_price": 3500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:40"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0579b29-7440-48c3-a436-ac5d99155367",
+          "description": "Manzana, pera, naranja-durazno y pomelo",
+          "id": "a057aaa2-444a-4a2f-828f-e2e8903e643b",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Agua Saborizada",
+          "position": 3,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057aaa2-4714-4ccc-9323-104c2bed7980",
+              "cost": 0,
+              "created_at": "2025-11-12 21:44:13",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 4000,
+              "original_price": 4000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:50"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0579b29-7440-48c3-a436-ac5d99155367",
+          "description": "Con gas o sin gas",
+          "id": "a057ac49-703f-4678-9186-12d68e2e1ab8",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Agua",
+          "position": 4,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a057ac49-7250-4098-a2dd-7da876ee9c22",
+              "cost": 0,
+              "created_at": "2025-11-12 21:48:50",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 3500,
+              "original_price": 3500,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:55"
+            }
+          ],
+          "modifier_categories": []
+        },
+        {
+          "product_category_id": "a0579b29-7440-48c3-a436-ac5d99155367",
+          "description": "Lata de energizante de 250ml",
+          "id": "a062ed95-a39b-4664-a560-ad5748375f5e",
+          "kitchen_id": "a04750ff-914f-45d6-b9ac-68b67ea851ce",
+          "stock_enabled": false,
+          "messages_for_customers": null,
+          "name": "Red Bull",
+          "position": 5,
+          "visible": true,
+          "images": [],
+          "product_variants": [
+            {
+              "id": "a062ed95-a5ba-4fef-be3e-9778455307b1",
+              "cost": 0,
+              "created_at": "2025-11-18 12:05:32",
+              "name": null,
+              "packaging_price": 0,
+              "position": 0,
+              "price": 5000,
+              "original_price": 5000,
+              "sku": null,
+              "stock_threshold": 100,
+              "stock": 100,
+              "updated_at": "2025-12-16 13:37:59"
+            }
+          ],
+          "modifier_categories": []
+        }
+      ]
+    }
+  ]
+}

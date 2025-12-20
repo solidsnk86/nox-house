@@ -1,9 +1,9 @@
-"use client"
+"use client";
 
-import { useState } from "react"
-import { Button } from "@/components/ui/button"
-import { Card } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
+import { useCallback, useEffect, useState } from "react";
+import { Button } from "@/components/ui/button";
+import { Card } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
 import {
   Dialog,
   DialogContent,
@@ -11,13 +11,17 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@/components/ui/dialog"
+} from "@/components/ui/dialog";
 
-type FilterType = "all" | "clasicos" | "medidas"
+type FilterType = "all" | "clasicos" | "medidas";
 
 const menuItems = {
   clasicos: [
-    { name: "Mojito", price: "$8.000", description: "Ron, menta, lima, azúcar" },
+    {
+      name: "Mojito",
+      price: "$8.000",
+      description: "Ron, menta, lima, azúcar",
+    },
     {
       name: "Daiquiri",
       price: "$7.500",
@@ -64,22 +68,42 @@ const menuItems = {
       description: "750ml - Reposado",
     },
   ],
-}
+};
 
 export function MenuSection() {
-  const [filter, setFilter] = useState<FilterType>("all")
+  const [filter, setFilter] = useState<FilterType>("all");
+  const [dataMenu, setDataMenu] = useState<[]>([])
+
+  const fetchItems = useCallback(async() => {
+    try {
+      const response = await fetch("https://api.olaclick.app/ms-products/public/companies/7bae7c21-d1ea-4fa7-b942-365eb907de34/categories");
+    const data = await response.json();
+    setDataMenu(data);
+    } catch(error) {
+      console.error((error as TypeError).message);
+    }
+  }, [])
+
+  useEffect(() => {
+    fetchItems();
+  }, [fetchItems])
+
+  console.log(dataMenu);
 
   const getFilteredItems = () => {
     if (filter === "all") {
       return [
-        ...menuItems.clasicos.map((item) => ({ ...item, category: "Clásicos" })),
+        ...menuItems.clasicos.map((item) => ({
+          ...item,
+          category: "Clásicos",
+        })),
         ...menuItems.medidas.map((item) => ({ ...item, category: "Medidas" })),
-      ]
+      ];
     }
     return filter === "clasicos"
       ? menuItems.clasicos.map((item) => ({ ...item, category: "Clásicos" }))
-      : menuItems.medidas.map((item) => ({ ...item, category: "Medidas" }))
-  }
+      : menuItems.medidas.map((item) => ({ ...item, category: "Medidas" }));
+  };
 
   return (
     <div className="space-y-6">
@@ -90,7 +114,7 @@ export function MenuSection() {
           className={
             filter === "all"
               ? "bg-neon-green text-black hover:bg-neon-green/90 font-bold transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-neon-green/50"
-              : "border-2 border-neon-green text-neon-green hover:bg-neon-green hover:text-black transition-all duration-300 hover:shadow-lg hover:shadow-neon-green/50 font-semibold"
+              : "border-2 border-neon-green/60 text-neon-green bg-neon-green/10 hover:bg-neon-green/20 hover:border-neon-green hover:text-neon-green transition-all duration-300 hover:shadow-lg hover:shadow-neon-green/30 font-semibold"
           }
         >
           TODOS
@@ -101,7 +125,7 @@ export function MenuSection() {
           className={
             filter === "clasicos"
               ? "bg-neon-pink text-black hover:bg-neon-pink/90 font-bold transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-neon-pink/50"
-              : "border-2 border-neon-pink text-neon-pink hover:bg-neon-pink hover:text-black transition-all duration-300 hover:shadow-lg hover:shadow-neon-pink/50 font-semibold"
+              : "border-2 border-neon-pink/60 text-neon-pink bg-neon-pink/10 hover:bg-neon-pink/20 hover:border-neon-pink hover:text-neon-pink transition-all duration-300 hover:shadow-lg hover:shadow-neon-pink/30 font-semibold"
           }
         >
           TRAGOS CLÁSICOS
@@ -112,7 +136,7 @@ export function MenuSection() {
           className={
             filter === "medidas"
               ? "bg-neon-orange text-black hover:bg-neon-orange/90 font-bold transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-neon-orange/50"
-              : "border-2 border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-black transition-all duration-300 hover:shadow-lg hover:shadow-neon-orange/50 font-semibold"
+              : "border-2 border-neon-orange/60 text-neon-orange bg-neon-orange/10 hover:bg-neon-orange/20 hover:border-neon-orange hover:text-neon-orange transition-all duration-300 hover:shadow-lg hover:shadow-neon-orange/30 font-semibold"
           }
         >
           MEDIDAS
@@ -126,8 +150,12 @@ export function MenuSection() {
               <Card className="bg-black/50 border-2 border-neon-green/30 backdrop-blur-sm p-5 hover:border-neon-green transition-all duration-300 cursor-pointer hover:bg-neon-green/10 hover:shadow-lg hover:shadow-neon-green/30 hover:scale-[1.02]">
                 <div className="flex justify-between items-start gap-4">
                   <div className="flex-1">
-                    <h3 className="text-lg font-bold text-white mb-1">{item.name}</h3>
-                    <p className="text-white/60 text-sm line-clamp-1">{item.description}</p>
+                    <h3 className="text-lg font-bold text-white mb-1">
+                      {item.name}
+                    </h3>
+                    <p className="text-white/60 text-sm line-clamp-1">
+                      {item.description}
+                    </p>
                   </div>
                   <Badge className="bg-neon-green text-black font-bold shrink-0 text-base px-3 py-1">
                     {item.price}
@@ -137,15 +165,23 @@ export function MenuSection() {
             </DialogTrigger>
             <DialogContent className="bg-black border-neon-green text-white max-w-md">
               <DialogHeader>
-                <DialogTitle className="text-2xl text-neon-green">{item.name}</DialogTitle>
+                <DialogTitle className="text-2xl text-neon-green">
+                  {item.name}
+                </DialogTitle>
                 <DialogDescription className="text-white/80 space-y-4 pt-4">
                   <div>
-                    <h3 className="text-neon-pink font-semibold text-lg mb-2">Descripción</h3>
+                    <h3 className="text-neon-pink font-semibold text-lg mb-2">
+                      Descripción
+                    </h3>
                     <p className="text-base">{item.description}</p>
                   </div>
                   <div>
-                    <h3 className="text-neon-pink font-semibold text-lg mb-2">Precio</h3>
-                    <p className="text-3xl font-bold text-neon-green">{item.price}</p>
+                    <h3 className="text-neon-pink font-semibold text-lg mb-2">
+                      Precio
+                    </h3>
+                    <p className="text-3xl font-bold text-neon-green">
+                      {item.price}
+                    </p>
                   </div>
                   <div>
                     <Badge
@@ -166,5 +202,5 @@ export function MenuSection() {
         ))}
       </div>
     </div>
-  )
+  );
 }
