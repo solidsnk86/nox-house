@@ -83,10 +83,9 @@ export function Contact() {
             </div>
           </div>
 
-          {/* Mapa */}
-          <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl overflow-hidden h-[400px] lg:h-full min-h-[400px]">
+          <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl overflow-hidden h-100 lg:h-full min-h-100">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.0!2d-68.3307!3d-34.6157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDM2JzU2LjUiUyA2OMKwMTknNTAuNSJX!5e0!3m2!1ses!2sar!4v1234567890"
+              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d690.3661614890602!2d-68.36321008226874!3d-34.60533973790875!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x967909007d922485%3A0x895f6295ccf51799!2sLa%20previa%20resto%20bar%20(Centro%20de%20San%20Rafael)!5e0!3m2!1ses-419!2sus!4v1766190882789!5m2!1ses-419!2sus"
               width="100%"
               height="100%"
               style={{ border: 0 }}
