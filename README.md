@@ -45,7 +45,9 @@ Este proyecto fue generado rápidamente como prueba de concepto utilizando v0, p
 - Mejora en SEO
 - Ajustes responsive más finos
 - Integración con backend (eventos, reservas, etc.)
-- 💡 Posibles mejoras
+  
+💡 Posibles mejoras
+
 - Sistema de reservas
 - Agenda de eventos
 - Integración con redes sociales
