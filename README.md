@@ -34,8 +34,9 @@ Uno de los diferenciales de esta landing es la integración de imágenes en **36
 
 ---
 
-
 🧩 Estado del proyecto
+
+🌐 [Vista en vivo de la web.](https://nox-house.vercel.app/)
 
 ⚠️ Prototipo inicial
 Este proyecto fue generado rápidamente como prueba de concepto utilizando v0, por lo que puede requerir:
