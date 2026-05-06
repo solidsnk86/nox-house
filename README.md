@@ -53,7 +53,7 @@ Este proyecto fue generado rápidamente como prueba de concepto utilizando v0, p
 - Integración con redes sociales
 - Modo oscuro más trabajado (ambientación nocturna)
 - Animaciones avanzadas
-- 
+
 # 📍 Ubicación
 
 San Rafael, Mendoza, Argentina
